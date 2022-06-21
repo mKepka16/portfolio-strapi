@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_home_header_contents",
+  "info": {
+    "displayName": "header_content",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "richtext"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
