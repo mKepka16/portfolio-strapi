@@ -4,7 +4,7 @@
   "info": {
     "singularName": "home-page",
     "pluralName": "home-pages",
-    "displayName": "HomePage",
+    "displayName": "home_page",
     "description": ""
   },
   "options": {
@@ -12,21 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "job_area_left_column": {
-      "type": "component",
-      "repeatable": false,
-      "component": "home.job-area"
-    },
-    "job_area_middle_column": {
-      "type": "component",
-      "repeatable": false,
-      "component": "home.job-area"
-    },
-    "job_area_right_column": {
-      "type": "component",
-      "repeatable": false,
-      "component": "home.job-area"
-    },
     "bio": {
       "type": "component",
       "repeatable": false,
@@ -41,6 +26,29 @@
       "type": "component",
       "repeatable": false,
       "component": "common.header-content"
+    },
+    "projects": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::project.project"
+    },
+    "footer_text": {
+      "type": "string"
+    },
+    "job_area_left_column": {
+      "type": "component",
+      "repeatable": false,
+      "component": "common.info-box"
+    },
+    "job_area_middle_column": {
+      "type": "component",
+      "repeatable": false,
+      "component": "common.info-box"
+    },
+    "job_area_right_column": {
+      "type": "component",
+      "repeatable": false,
+      "component": "common.info-box"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_home_job_areas",
+  "collectionName": "components_projects_pages_info_boxes",
   "info": {
-    "displayName": "JobArea",
+    "displayName": "info_box",
     "icon": "align-justify",
     "description": ""
   },

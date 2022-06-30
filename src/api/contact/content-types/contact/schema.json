@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "contacts",
+  "info": {
+    "singularName": "contact",
+    "pluralName": "contacts",
+    "displayName": "contact",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "common.header-content"
+    },
+    "social_media": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.social-media"
+    },
+    "footer_text": {
+      "type": "string"
+    }
+  }
+}
