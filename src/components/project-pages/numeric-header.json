@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_project_pages_numeric_headers",
+  "info": {
+    "displayName": "numeric_header"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "string"
+    },
+    "subheader": {
+      "type": "string"
+    }
+  }
+}

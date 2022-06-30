@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_project_pages_image_with_descriptions",
+  "info": {
+    "displayName": "image_with_description",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "image_position": {
+      "type": "enumeration",
+      "enum": [
+        "left",
+        "right"
+      ]
+    },
+    "description": {
+      "type": "text"
+    },
+    "buttons": {
+      "displayName": "button",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.button"
+    },
+    "additional_info": {
+      "type": "text"
+    }
+  }
+}
