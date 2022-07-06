@@ -49,6 +49,13 @@
       "type": "component",
       "repeatable": false,
       "component": "common.info-box"
+    },
+    "background_photo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
