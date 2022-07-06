@@ -69,6 +69,10 @@ $RECYCLE.BIN/
 *.sql
 *.sqlite
 *.sqlite3
+*.db
+/.tmp/data.db
+/public/uploads
+
 
 
 ############################
