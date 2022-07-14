@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#3A118A;}
+	.st2{fill:none;stroke:url(#SVGID_1_);stroke-width:14;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2" class="st0">
+	<rect class="st1" width="1000" height="1000"/>
+</g>
+<g id="Layer_1">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="39" y1="470.5" x2="982.3024" y2="470.5">
+		<stop  offset="0" style="stop-color:#3A118A"/>
+		<stop  offset="1" style="stop-color:#7533F7"/>
+	</linearGradient>
+	<polygon class="st2" points="774,459.3 946.7,206 789.6,206 650,410.2 650,206 645.3,206 513.8,206 446.9,206 355.1,533.8 
+		347,580.8 338.6,534.1 246.8,206 46,206 46,735 185,735 185,447.9 180.8,348 204,465.3 278.5,688 414.8,688 489,465.3 510.4,348.7 
+		503,447.9 503,735 513.8,735 645.3,735 650,735 650,506 802.8,735 968.8,735 	"/>
+</g>
+</svg>

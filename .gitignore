@@ -69,8 +69,6 @@ $RECYCLE.BIN/
 *.sql
 *.sqlite
 *.sqlite3
-*.db
-/public/uploads
 
 
 
@@ -110,6 +108,5 @@ coverage
 license.txt
 exports
 *.cache
-*.tmp
 build
 .strapi-updater.json

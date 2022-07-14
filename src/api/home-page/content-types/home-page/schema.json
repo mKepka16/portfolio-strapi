@@ -32,9 +32,6 @@
       "relation": "oneToMany",
       "target": "api::project.project"
     },
-    "footer_text": {
-      "type": "string"
-    },
     "job_area_left_column": {
       "type": "component",
       "repeatable": false,
@@ -51,11 +48,12 @@
       "component": "common.info-box"
     },
     "background_photo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     }
   }
 }
